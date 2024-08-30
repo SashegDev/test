@@ -1,11 +1,13 @@
 [
     {
-        "nickname": "user1",
+        "nickname": "user",
+        "password": "test",
         "status": "Active",
         "role": "Admin"
     },
     {
-        "nickname": "user2",
+        "nickname": "user1",
+        "password": "test1",
         "status": "InActive",
         "role": "User"
     }
