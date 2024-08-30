@@ -1,0 +1,12 @@
+[
+    {
+        "nickname": "user1",
+        "status": "Active",
+        "role": "Admin"
+    },
+    {
+        "nickname": "user2",
+        "status": "InActive",
+        "role": "User"
+    }
+]
