@@ -1,14 +1,14 @@
 [
     {
-        "nickname": "user",
-        "password": "test",
+        "nickname": "ZaV0dick",
+        "password": "12345678",
         "status": "Active",
-        "role": "Admin"
+        "role": "User"
     },
     {
-        "nickname": "user1",
-        "password": "test1",
-        "status": "InActive",
-        "role": "User"
+        "nickname": "SashegDev",
+        "password": "totallynotsasheg",
+        "status": "Active",
+        "role": "Admin"
     }
 ]
