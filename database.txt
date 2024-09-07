@@ -1,2 +1,0 @@
-SashegDev - Active - Admin
-testUser - InActive - Player
